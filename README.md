@@ -16,8 +16,9 @@ git clone https://github.com/dssantos/keywords-video-downloader.git
 cd keywords-video-downloader
 python -m venv .keywords-video-downloader
 source .keywords-video-downloader/bin/activate
+pip install -U pip
 pip install -r requirements.txt
-echo "instalar python no linux\nprimeiro programa em python" > keywords.txt
+echo $'instalar python no linux\nprimeiro programa em python' > keywords.txt
 python main.py
 ls downloads
 ```

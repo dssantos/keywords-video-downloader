@@ -1,1 +1,2 @@
-instalar python no linux\n primeiro programa em python
+instalar python no linux
+primeiro programa em python

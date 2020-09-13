@@ -13,11 +13,11 @@ Baixe vídeos do youtube informando apenas algumas palavras
 
 ```console
 git clone https://github.com/dssantos/keywords-video-downloader.git
-cd keywords_video_downloader
-python -m venv .keywords_video_downloader
-source .keywords_video_downloader/bin/activate
+cd keywords-video-downloader
+python -m venv .keywords-video-downloader
+source .keywords-video-downloader/bin/activate
 pip install -r requirements.txt
-echo "instalar python no linux\n primeiro programa em python" > keywords.txt
+echo "instalar python no linux\nprimeiro programa em python" > keywords.txt
 python main.py
 ls downloads
 ```

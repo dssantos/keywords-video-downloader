@@ -1,0 +1,41 @@
+esquemas de bancos de dados relacionais
+chave primária, alternava e estrangeira;
+normalização de banco dados
+formas normais (1FN, 2FN,3FN, 4FN e desnormalização)
+restrições de integridade
+linguagens de definição de dados (DDL), manipulação de dados (DML) e controle de dados (DCL)
+processamento de transações, controle de concorrência e recuperação
+processamento de consultas; omização e ajustes
+(tunning) de bancos de dados; segurança de bancos de dados; backup e recuperação; 
+mapeamento objeto relacional. 
+Técnicas de preparação e apresentação de dados: ETL (extração, transformação e carga); limpeza; importação; conversão; carga; visualização. 
+Business Intelligence: conceitos; 
+datawarehouse; 
+OLAP; MOLAP; ROLAP e OLTP; ferramentas e softwares. 
+Banco de dados sistemas gerenciadores: 
+banco de dados SQL Server; 
+banco de dados Oracle; 
+banco de dados Postgre-SQL. 
+Bancos de dados não relacionais: 
+banco de dados MongoDB, 
+banco de dados Cassandra.
+Ferramentas de Indexação Textual: Elasticsearch
+Ferramentas de Indexação Textual: SOLR. 
+Infraestrutura de processamento analíco distribuído: Hadoop
+Infraestrutura de processamento analíco distribuído: Spark
+Infraestrutura de processamento analíco distribuído: Hive
+Infraestrutura de processamento analíco distribuído: Yarn
+Infraestrutura de processamento analíco distribuído: Zookeeper. 
+Processamento analíco em tempo real: barramento de eventos pub/sub 
+Processamento analíco em tempo real: arquitetura lambda
+Processamento analíco em tempo real: Spark Streaming
+Processamento analíco em tempo real: Flink. 
+Contêineres e infraestrutura elástica aplicados ao processamento de dados: Docker 
+Contêineres e infraestrutura elástica aplicados ao processamento de dados: Kubernetes. 
+Linguagem SQL: SQL ANSI. 
+Variantes de linguagem SQL: PL-SQL, T-SQL, PL/pqSQL, SQL/PSM. 
+Linguagens de programação aplicadas ao tratamento de dados: Python e linguagem R e Matlab. 
+Big data: fundamentos; tecnologia; gerenciamento; 
+big data analíco; implementação; soluções reais. 
+Instrução Normava nº 01/2019 – SEGES/ME; 
+Lei nº 13.709/2018 (Lei geral de proteção de dados pessoais) e suas alterações.

@@ -31,7 +31,7 @@ def download(order, url):
             path = os.getcwd()+'/downloads'
             if (video.length < 900) and (video.rating > 4.5):
                 video.streams.get_by_itag(18).download(path, filename_prefix=f'{order} - ')
-                print(video.title, video.length, video.rating, video.rating)
+                print(video.title, 'Tempo:', video.length, 'Pontuação:', video.rating)
                 return 1
             else:
                 print('Não atende aos critérios')

@@ -8,8 +8,8 @@ with open('keywords.txt') as keywords:
         urls = search(keyword)
         success = 0
         for url in urls:
-            if success < 2:
-                success += download(f'00{i+1}{success+1}', url)
+            if success < 1:
+                success += download(f'{i+1:02}\.{success+1:02}', url)
             else:
                 pass
             
